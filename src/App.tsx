@@ -108,7 +108,7 @@ export default function FazionApp({}: FazionAppProps) {
             Welcome to best image generator on the planet
           </h1>
           <p className="text-white/40 text-lg md:text-xl font-light tracking-wide">
-            Powered by Gemini 3.1 Flash. Choose your engine.
+            Powered by Faizon. Choose your engine.
           </p>
         </motion.div>
 
@@ -291,7 +291,7 @@ export default function FazionApp({}: FazionAppProps) {
       {/* Footer */}
       <footer className="py-6 text-center relative z-10">
         <div className="flex flex-col items-center justify-center gap-1">
-          <p className="text-xs font-semibold tracking-widest text-white/40 uppercase">Built by TEKDEV</p>
+          <p className="text-xs font-semibold tracking-widest text-white/40 uppercase">Built by TEKTREY</p>
           <p className="text-xs text-white/30">© Fazion</p>
         </div>
       </footer>
